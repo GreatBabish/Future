@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: cursive;
+  
+}
+  
+hr{
+    margin: 50px auto;
+    border-color: grey;
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 5px;
+}
+  
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Press Start 2P', cursive;
+    color: #3F979B;
+    font-size: 80px;
+    font-weight: normal;
+}
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    color: #3F979B;
+    font-weight: normal;
+}
+h3 {
+    font-family: 'Press Start 2P', cursive;
+    color: #3F979B;
+    font-weight: normal;
+}
+p {
+    color: #205E61;
+    font-weight: normal;
+}
+.top {
+      position: relative;
+  
+}
+
+
+.cloud {
+    position: absolute;
+    left: 32%;
+    top: 150px;
+    width: 400px;
+    height: 400px;
+}
+.ms {
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-left: 20px;
+}
+.dr {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+.bab {
+    height: 200px;
+    width: 200px;
+}
+.skill-row {
+    width: 65%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.btn {
+    margin-bottom: 50px;
+     -webkit-border-radius: 11px;
+     -moz-border-radius: 11px;
+     border-radius: 11px;
+     color: #FFFFFF;
+     font-family: cursive;
+     font-size: 20px;
+     font-weight: 100;
+     padding: 11px;
+     background-color: #004145;
+     -webkit-box-shadow: 0 0 20px 0 #DAF9F3;
+     -moz-box-shadow: 0 0 20px 0 #DAF9F3;
+     box-shadow: 0 0 20px 0 #DAF9F3;
+     border: solid #38848A 0;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+}
+  
+.BUTTON:hover {
+     background: #03747B;
+     border: solid #004145 1px;
+     -webkit-border-radius: 11px;
+     -moz-border-radius: 11px;
+     border-radius: 11px;
+     text-decoration: none;
+}
+.bottom-container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+    width: 100%;
+    background-color: #004145;
+}
+.footer-link {
+    color: white;
+}
+.bottom-last {
+    padding-top: 40px;
+    color: white;
+    margin-bottom: 0;
+}
+.footer-link {
+    color: white;
+    margin: 10px;
+}
+.destroyedPlanet {
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+.oz {
+    text-align: center;
+    color: #DAF9F3;
+    position: absolute;
+    right: 200px;
+    left: 200px;
+    top: 50px;
+}
